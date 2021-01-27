@@ -1,6 +1,6 @@
-**************************TRABALHO DE FUNDAMENTOS DOS SISTEMAS OPERACIONAIS (2019/2)*****************************
+**************************TRABALHO DE FUNDAMENTOS DOS SISTEMAS OPERACIONAIS (2019/2)**************************
 
-*******************************Douglas Santos e Erich Morais***********************************
+*******************************Douglas Santos e Erich Morais*******************************
 
 Passos para execução do programa:
 
@@ -21,5 +21,5 @@ Passos para execução do programa:
   6.3 - sudo insmod driver.ko
 
 
-7 - **********************Referências*********************
+7 - **********************Referências**********************
   7.1 - http://www.tldp.org/LDP/lkmpg/2.4/html/x856.html
