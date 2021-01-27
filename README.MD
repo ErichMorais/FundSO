@@ -1,6 +1,9 @@
 **************************TRABALHO DE FUNDAMENTOS DOS SISTEMAS OPERACIONAIS (2019/2)*****************************
+
 *******************************Douglas Santos e Erich Morais***********************************
+
 Passos para execução do programa:
+
 1 - sudo tail -f /var/log/syslog
 
 2 - sudo mknod /dev/damas c 60 0
